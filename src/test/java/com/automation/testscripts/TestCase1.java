@@ -1,6 +1,7 @@
 package com.automation.testscripts;
 
 import org.testng.annotations.Test;
+import org.testng.annotations.Test;
 import org.testng.Reporter;
 import com.automation.coreUtilities.BaseTest;
 import com.automation.coreUtilities.DriverFactory;
